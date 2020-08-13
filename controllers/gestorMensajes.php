@@ -84,7 +84,7 @@ class MensajesController{
 
 			else{
 
-				echo '<div class="alert alert-danger">¡No se puedo enviar el mensaje, no se permiten caracteres especiales!</div>';
+				echo '<div class="alert alert-danger">¡No se puede enviar el mensaje, no se permiten caracteres especiales!</div>';
 
 			}
 
